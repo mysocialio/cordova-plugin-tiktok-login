@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-tiktok-login",
+  "version": "1.0.0",
+  "description": "Login with tiktok",
+  "cordova": {
+    "id": "cordova-plugin-tiktok-login",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
